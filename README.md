@@ -6,7 +6,7 @@ Estudiante De Ingeniería De Software
 
 * 🌍Estoy radicado en República Dominicana
 * ✉️ Puedes contactarme en [luisbravobello@gmail.com](mailto:luisbravobello@gmail.com)[](mailto:luisbravobello@gmail.com)
-* 🧠 Estoy aprendiendo C#
+* 🧠 Estoy aprendiendo C# y SQL
 
 <a href="https://www.github.com/luisbravobello" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/luisbravobello?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/luisbravobello1" target="_blank" rel="noreferrer"><img
