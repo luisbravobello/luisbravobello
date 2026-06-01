@@ -90,6 +90,3 @@ Actualmente estoy cursando la carrera de **Ingeniería de Software** en la **Uni
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=luisbravobello&color=0891b2&style=for-the-badge&label=Visitas+al+perfil" alt="Profile views" />
-</p>
