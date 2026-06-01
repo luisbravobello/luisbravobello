@@ -59,9 +59,9 @@ Actualmente estoy cursando la carrera de **Ingeniería de Software** en la **Uni
   &nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" alt="MySQL" title="MySQL" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/microsoftsqlserver-colored.svg" width="40" height="40" alt="SQL Server" title="SQL Server" />
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="40" height="40" alt="SQL Server" title="SQL Server" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sqlite-colored.svg" width="40" height="40" alt="SQLite" title="SQLite" />
+  <img src="https://cdn.simpleicons.org/sqlite/003B57" width="40" height="40" alt="SQLite" title="SQLite" />
 </p>
 
 ### Herramientas
@@ -105,18 +105,18 @@ Actualmente estoy cursando la carrera de **Ingeniería de Software** en la **Uni
 
 <p align="center">
   <a href="http://www.github.com/luisbravobello">
-    <img src="https://github-readme-stats.vercel.app/api?username=luisbravobello&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="luisbravobello's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=luisbravobello&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="luisbravobello's GitHub stats" />
   </a>
 </p>
 
 <p align="center">
   <a href="http://www.github.com/luisbravobello">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisbravobello&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=luisbravobello&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/luisbravobello">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisbravobello&langs_count=6&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Lenguajes" alt="Top Lenguajes" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisbravobello&langs_count=6&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&custom_title=Top%20Lenguajes&layout=compact" alt="Top Lenguajes" />
   </a>
 </p>
