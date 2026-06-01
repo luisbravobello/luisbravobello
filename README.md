@@ -52,7 +52,6 @@ Actualmente estoy cursando la carrera de **Ingeniería de Software** en la **Uni
   <a href="#"><img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" title=".NET" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" title="Spring Boot" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" title="MySQL" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=mssql" width="48" height="48" alt="SQL Server" title="SQL Server" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" title="SQLite" /></a>
 </p>
 
