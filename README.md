@@ -1,9 +1,9 @@
 <h1 align="center">
-  Hola, soy Luis Alejandro Bravo Bello
+  Hi, I'm Luis Alejandro Bravo Bello
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" />
 </h1>
 
-<h3 align="center">Desarrollador de Software Full Stack | Estudiante de Ingeniería de Software</h3>
+<h3 align="center">Full Stack Software Developer | Software Engineering Student</h3>
 
 <p align="center">
   <a href="https://www.github.com/luisbravobello">
@@ -14,24 +14,20 @@
   </a>
 </p>
 
----
+## 💼 About Me
 
-## 💼 Sobre mí
+I build applications that solve real problems. I work across the full technology stack: backend systems, frontend interfaces, and databases, with a strong focus on **clean code** and **scalable architecture**.
 
-Creo aplicaciones que resuelven problemas reales. Trabajo en todo el stack tecnológico: sistemas backend, interfaces frontend y bases de datos, con especial atención al **código limpio** y la **arquitectura escalable**.
+I'm currently studying **Software Engineering** at **Universidad Central del Este (UCE)**.
 
-Actualmente estoy cursando la carrera de **Ingeniería de Software** en la **Universidad Central del Este (UCE)**.
+- 🌍 Based in **Dominican Republic** 🌴
+- ✉️ Reach me at [luisbravobello@gmail.com](mailto:luisbravobello@gmail.com)
+- 🚀 Currently learning **JavaScript**, **React** and **Spring Boot**
+- 🧠 Passionate about **C#**, **.NET** and **SQL**
 
-- 🌍 Ubicado en **República Dominicana** 🌴
-- ✉️ Contáctame en [luisbravobello@gmail.com](mailto:luisbravobello@gmail.com)
-- 🚀 Actualmente aprendiendo **JavaScript**, **React** y **Spring Boot**
-- 🧠 Apasionado por **C#**, **.NET** y **SQL**
+## 🛠️ Tech Stack
 
----
-
-## 🛠️ Stack Tecnológico
-
-### Lenguajes
+### Languages
 <p>
   <a href="#"><img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" title="C#" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" title="Java" /></a>
@@ -47,7 +43,7 @@ Actualmente estoy cursando la carrera de **Ingeniería de Software** en la **Uni
   <a href="#"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" title="React" /></a>
 </p>
 
-### Backend & Bases de Datos
+### Backend & Databases
 <p>
   <a href="#"><img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" title=".NET" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" title="Spring Boot" /></a>
@@ -55,7 +51,7 @@ Actualmente estoy cursando la carrera de **Ingeniería de Software** en la **Uni
   <a href="#"><img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" title="SQLite" /></a>
 </p>
 
-### Herramientas
+### Tools
 <p>
   <a href="#"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" title="Git" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" title="GitHub" /></a>
@@ -64,9 +60,7 @@ Actualmente estoy cursando la carrera de **Ingeniería de Software** en la **Uni
   <a href="#"><img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="Visual Studio" title="Visual Studio" /></a>
 </p>
 
----
-
-## 🌐 Redes Sociales
+## 🌐 Socials
 
 <p>
   <a href="https://www.github.com/luisbravobello" target="_blank">
@@ -83,6 +77,12 @@ Actualmente estoy cursando la carrera de **Ingeniería de Software** en la **Uni
   &nbsp;
   <a href="https://www.instagram.com/alejandro_bravo27/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/luisalejandrobravobell" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" />
+  </a>
+</p>
   </a>
   &nbsp;
   <a href="https://www.facebook.com/luisalejandrobravobell" target="_blank">
