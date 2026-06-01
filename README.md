@@ -33,37 +33,36 @@ Actualmente estoy cursando la carrera de **Ingeniería de Software** en la **Uni
 
 ### Lenguajes
 <p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" height="35" alt="C#" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="35" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="35" alt="Python" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="35" alt="C" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" title="C#" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" title="Java" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" title="JavaScript" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" title="Python" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" title="C" /></a>
 </p>
 
 ### Frontend
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="35" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="35" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="35" alt="React" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" title="HTML5" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" title="CSS3" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" title="React" /></a>
 </p>
 
 ### Backend & Bases de Datos
 <p>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="35" alt=".NET" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="35" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="35" alt="REST API" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="35" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="35" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="35" alt="SQLite" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" title=".NET" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" title="Spring Boot" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" title="MySQL" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mssql" width="48" height="48" alt="SQL Server" title="SQL Server" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" title="SQLite" /></a>
 </p>
 
 ### Herramientas
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="35" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="35" alt="Docker" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="35" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" height="35" alt="Visual Studio" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" title="Git" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" title="GitHub" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" title="Docker" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" title="VS Code" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="Visual Studio" title="Visual Studio" /></a>
 </p>
 
 ---
