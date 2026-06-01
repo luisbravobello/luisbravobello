@@ -90,25 +90,6 @@ Actualmente estoy cursando la carrera de **Ingeniería de Software** en la **Uni
   </a>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/luisbravobello">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisbravobello&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&include_all_commits=true" />
-  </a>
-  <a href="https://github.com/luisbravobello">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisbravobello&layout=compact&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&custom_title=Top%20Lenguajes" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/luisbravobello">
-    <img src="https://streak-stats.demolab.com?user=luisbravobello&theme=dark&background=1c1917&ring=0891b2&fire=0891b2&currStreakLabel=0891b2&hide_border=true&locale=es" />
-  </a>
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=luisbravobello&color=0891b2&style=for-the-badge&label=Visitas+al+perfil" alt="Profile views" />
 </p>
