@@ -81,12 +81,4 @@ I'm currently studying **Software Engineering** at **Universidad Central del Est
   &nbsp;
   <a href="https://www.facebook.com/luisalejandrobravobell" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" />
-  </a>
-</p>
-  </a>
-  &nbsp;
-  <a href="https://www.facebook.com/luisalejandrobravobell" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" />
-  </a>
-</p>
-
+  </a></p>
