@@ -40,7 +40,6 @@ I'm currently studying **Software Engineering** at **Universidad Central del Est
 <p>
   <a href="#"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" title="HTML5" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" title="CSS3" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" title="React" /></a>
 </p>
 
 ### Backend & Databases
