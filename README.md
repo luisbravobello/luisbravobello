@@ -65,21 +65,22 @@ I'm currently studying **Software Engineering** at **Universidad Central del Est
 
 <p>
   <a href="https://www.github.com/luisbravobello" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-luisbravobello-000000?style=flat-square&logo=github&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/luis-alejandro-bravo-bello-94606535a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Luis%20Bravo-222222?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.x.com/luisbravobello1" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter / X" />
+    <img src="https://img.shields.io/badge/X-luisbravobello1-111111?style=flat-square&logo=x&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.instagram.com/alejandro_bravo27/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-alejandro__bravo27-333333?style=flat-square&logo=instagram&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.facebook.com/luisalejandrobravobell" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" />
-  </a></p>
+    <img src="https://img.shields.io/badge/Facebook-Luis%20Bravo-444444?style=flat-square&logo=facebook&logoColor=white" />
+  </a>
+</p>
