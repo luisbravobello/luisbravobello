@@ -5,6 +5,9 @@
 
 <h3 align="center">Full Stack Software Developer | Software Engineering Student</h3>
 
+<img width="1672" height="941" alt="logo_luis" src="https://github.com/user-attachments/assets/b45b1122-8c69-4010-b626-a514e95300c1" />
+
+
 ## 💼 About Me
 
 I build applications that solve real problems. I work across the full technology stack: backend systems, frontend interfaces, and databases, with a strong focus on **clean code** and **scalable architecture**.
