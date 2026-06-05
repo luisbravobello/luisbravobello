@@ -14,8 +14,6 @@
   </a>
 </p>
 
-<img width="1672" height="941" alt="logo_luis" src="https://github.com/user-attachments/assets/363fce7f-0906-45ef-91d0-4436e7caccf3" />
-
 ## 💼 About Me
 
 I build applications that solve real problems. I work across the full technology stack: backend systems, frontend interfaces, and databases, with a strong focus on **clean code** and **scalable architecture**.
