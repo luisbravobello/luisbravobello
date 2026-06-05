@@ -5,15 +5,6 @@
 
 <h3 align="center">Full Stack Software Developer | Software Engineering Student</h3>
 
-<p align="center">
-  <a href="https://www.github.com/luisbravobello">
-    <img src="https://img.shields.io/github/followers/luisbravobello?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-  </a>
-  <a href="https://www.x.com/luisbravobello1">
-    <img src="https://img.shields.io/twitter/follow/luisbravobello1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-  </a>
-</p>
-
 ## 💼 About Me
 
 I build applications that solve real problems. I work across the full technology stack: backend systems, frontend interfaces, and databases, with a strong focus on **clean code** and **scalable architecture**.
