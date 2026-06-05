@@ -13,7 +13,7 @@ I'm currently studying **Software Engineering** at **Universidad Central del Est
 
 - 🌍 Based in **Dominican Republic** 🌴
 - ✉️ Reach me at [luisbravobello@gmail.com](mailto:luisbravobello@gmail.com)
-- 🚀 Currently learning **JavaScript**, **React** and **Spring Boot**
+- 🚀 Currently learning **JavaScript** and **Spring Boot**
 - 🧠 Passionate about **C#**, **.NET** and **SQL**
 
 ## 🛠️ Tech Stack
