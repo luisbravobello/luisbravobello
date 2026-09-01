@@ -24,9 +24,7 @@ I'm currently studying **Software Engineering** at **Universidad Central del Est
 ### Languages
 <p>
   <a href="#"><img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" title="C#" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" title="Java" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" title="JavaScript" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" title="Python" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" title="C" /></a>
 </p>
 
