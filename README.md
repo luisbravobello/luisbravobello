@@ -5,7 +5,7 @@
 
 <h3 align="center">Full Stack Software Developer | Software Engineering Student</h3>
 
-<img width="2172" height="724" alt="ChatGPT Image 29 sept 2026, 11_58_39" src="https://github.com/user-attachments/assets/1a6e47d2-c2de-4593-82ee-8d7f7e722ec5" />
+<img width="2092" height="752" alt="4d57bf42-2d77-4245-bcf6-9dace09830fd" src="https://github.com/user-attachments/assets/b9668a3f-4aae-4b9e-9c9c-5ef4bb9974f9" />
 
 
 ## 💼 About Me
