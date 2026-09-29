@@ -5,8 +5,7 @@
 
 <h3 align="center">Full Stack Software Developer | Software Engineering Student</h3>
 
-<img width="1672" height="941" alt="logo_luis" src="https://github.com/user-attachments/assets/b45b1122-8c69-4010-b626-a514e95300c1" />
-
+<img width="1254" height="1254" alt="logo" src="https://github.com/user-attachments/assets/8d02010f-aac2-4063-9ad5-ba13947f2a1d" />
 
 ## 💼 About Me
 
