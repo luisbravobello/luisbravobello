@@ -5,7 +5,8 @@
 
 <h3 align="center">Full Stack Software Developer | Software Engineering Student</h3>
 
-<img width="1254" height="1254" alt="logo" src="https://github.com/user-attachments/assets/8d02010f-aac2-4063-9ad5-ba13947f2a1d" />
+<img width="2092" height="752" alt="4d57bf42-2d77-4245-bcf6-9dace09830fd" src="https://github.com/user-attachments/assets/b5ad11c7-3fd2-4474-af5c-85584e55c014" />
+
 
 ## 💼 About Me
 
