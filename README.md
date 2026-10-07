@@ -1,76 +1,67 @@
-<h1 align="center">
-  Hi, I'm Luis Alejandro Bravo Bello
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" />
-</h1>
-
-<h3 align="center">Full Stack Software Developer | Software Engineering Student</h3>
-
-<img width="2092" height="752" alt="4d57bf42-2d77-4245-bcf6-9dace09830fd" src="https://github.com/user-attachments/assets/b9668a3f-4aae-4b9e-9c9c-5ef4bb9974f9" />
-
-
-## 💼 About Me
-
-I build applications that solve real problems. I work across the full technology stack: backend systems, frontend interfaces, and databases, with a strong focus on **clean code** and **scalable architecture**.
-
-I'm currently studying **Software Engineering** at **Universidad Central del Este (UCE)**.
-
-- 🌍 Based in **Dominican Republic** 🌴
-- ✉️ Reach me at [luisbravobello@gmail.com](mailto:luisbravobello@gmail.com)
-- 🚀 Currently learning **JavaScript** and **Spring Boot**
-- 🧠 Passionate about **C#**, **.NET** and **SQL**
-
-## 🛠️ Tech Stack
-
-### Languages
-<p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" title="C#" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" title="JavaScript" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" title="C" /></a>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b9668a3f-4aae-4b9e-9c9c-5ef4bb9974f9" alt="Luis Alejandro Bravo Bello — profile banner" width="100%" />
 </p>
 
-### Frontend
-<p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" title="HTML5" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" title="CSS3" /></a>
+<h1 align="center">Luis Alejandro Bravo Bello</h1>
+
+<p align="center">
+  <strong>Full Stack Software Developer</strong><br />
+  Software Engineering Student at Universidad Central del Este<br />
+  Dominican Republic
 </p>
 
-### Backend & Databases
-<p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" title=".NET" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" title="Spring Boot" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" title="MySQL" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" title="SQLite" /></a>
+<p align="center">
+  <a href="mailto:luisbravobello@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/luis-alejandro-bravo-bello-94606535a/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/luisbravobello?tab=repositories">Explore my repositories</a>
 </p>
 
-### Tools
+---
+
+## About me
+
+I build applications that solve real problems, working across backend systems, frontend interfaces, and databases. I care about readable code, clear responsibilities, and architectures that can grow with a project.
+
+I'm studying **Software Engineering at Universidad Central del Este (UCE)**. My main interests are **C#**, **.NET**, and **SQL**, and I'm currently expanding my knowledge of **JavaScript** and **Spring Boot**.
+
+## Technologies I work with
+
+### Languages & frontend
+
 <p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" title="Git" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" title="GitHub" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" title="Docker" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" title="VS Code" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="Visual Studio" title="Visual Studio" /></a>
+  <img src="https://skillicons.dev/icons?i=cs,js,c,html,css&theme=light" alt="C#, JavaScript, C, HTML and CSS" />
 </p>
 
-## 🌐 Socials
+### Backend & databases
 
 <p>
-  <a href="https://www.github.com/luisbravobello" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-luisbravobello-000000?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/luis-alejandro-bravo-bello-94606535a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Luis%20Bravo-222222?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.x.com/luisbravobello1" target="_blank">
-    <img src="https://img.shields.io/badge/X-luisbravobello1-111111?style=flat-square&logo=x&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/alejandro_bravo27/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-alejandro__bravo27-333333?style=flat-square&logo=instagram&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.facebook.com/luisalejandrobravobell" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Luis%20Bravo-444444?style=flat-square&logo=facebook&logoColor=white" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=dotnet,spring,mysql,sqlite&theme=light" alt=".NET, Spring, MySQL and SQLite" />
 </p>
+
+### Development tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio&theme=light" alt="Git, GitHub, Docker, Visual Studio Code and Visual Studio" />
+</p>
+
+## How I approach development
+
+- **Clear structure:** separate responsibilities so each part of an application is easier to understand and maintain.
+- **Practical solutions:** start with the problem and choose an approach that fits its needs.
+- **Continuous learning:** strengthen my foundations and put new concepts into practice.
+
+## Current focus
+
+| Area | What I'm learning |
+| :--- | :--- |
+| JavaScript | Building interactive interfaces and understanding application behavior |
+| Spring Boot | Developing backend applications with Java |
+| Software engineering | Applying clean code and architectural principles |
+
+## Let's connect
+
+Have a project, an idea, or a learning opportunity to share? Reach me at **[luisbravobello@gmail.com](mailto:luisbravobello@gmail.com)**.
+
+[LinkedIn](https://www.linkedin.com/in/luis-alejandro-bravo-bello-94606535a/) · [GitHub](https://github.com/luisbravobello) · [Instagram](https://www.instagram.com/alejandro_bravo27/) · [X](https://www.x.com/luisbravobello1) · [Facebook](https://www.facebook.com/luisalejandrobravobell)
