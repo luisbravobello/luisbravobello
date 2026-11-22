@@ -26,47 +26,105 @@
 
 ## About me
 
-
 I build applications that solve real problems, working across **backend systems**, **frontend interfaces** and **databases**. I care about readable code, clear responsibilities and architectures that can grow with a project.
 
-- Software Engineering student at **Universidad Central del Este (UCE)**
-- Based in **Punta Cana, Dominican Republic**
-- Main stack: **C#**, **.NET** and **SQL**
-- Also building 3D scenes with **C + OpenGL** for computer graphics
-- Currently learning **JavaScript**, **Spring Boot** and **3D modeling with Blender**
-- Open to collaborating on projects and learning opportunities
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Education</b><br />
+      <sub>Software Engineering at Universidad Central del Este (UCE)</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>Location</b><br />
+      <sub>Punta Cana, Dominican Republic</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Main stack</b><br />
+      <sub>C#, .NET and SQL for backend systems and APIs</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>Computer graphics</b><br />
+      <sub>3D scenes and simulations with C and OpenGL</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Currently learning</b><br />
+      <sub>JavaScript, Spring Boot and 3D modeling with Blender</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>Open to</b><br />
+      <sub>Collaborating on projects and learning opportunities</sub>
+    </td>
+  </tr>
+</table>
 
 ```csharp
-public record Developer
+var luis = new Developer
 {
-    public string Name      => "Luis Alejandro Bravo Bello";
-    public string Role      => "Full Stack Developer";
-    public string[] Stack   => ["C#", ".NET", "SQL", "JavaScript", "C"];
-    public string[] Focus   => ["Clean Architecture", "Web Security", "3D Modeling"];
-    public string Motto     => "Start with the problem, then choose the tool.";
-}
+    Name     = "Luis Alejandro Bravo Bello",
+    Role     = "Full Stack Developer",
+    Stack    = ["C#", ".NET", "SQL", "JavaScript", "C"],
+    Focus    = ["Clean Architecture", "Web Security", "3D Modeling"],
+    Motto    = "Start with the problem, then choose the tool."
+};
 ```
 
 ---
 
 ## Tech stack
 
-<table align="center">
+<table>
   <tr>
-    <td align="center"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=cs,c,java,js,html,css&theme=dark" alt="Languages" /></td>
+    <td width="50%" align="center" valign="top">
+      <br />
+      <b>Backend</b><br />
+      <sub>APIs, business logic and architecture</sub><br /><br />
+      <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express&theme=dark&perline=4" alt="C#, .NET, Node.js and Express" />
+      <br /><br />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <br />
+      <b>Databases</b><br />
+      <sub>Modeling, queries and persistence</sub><br /><br />
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark&perline=4" alt="MySQL, PostgreSQL and SQLite" />
+      <br /><br />
+    </td>
   </tr>
   <tr>
-    <td align="center"><b>Frameworks</b></td>
-    <td><img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,spring&theme=dark" alt="Frameworks" /></td>
+    <td width="50%" align="center" valign="top">
+      <br />
+      <b>Web</b><br />
+      <sub>Structure, styling and interaction</sub><br /><br />
+      <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark&perline=4" alt="HTML, CSS and JavaScript" />
+      <br /><br />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <br />
+      <b>Graphics & 3D</b><br />
+      <sub>Rendering, simulations and modeling</sub><br /><br />
+      <img src="https://skillicons.dev/icons?i=c,blender&theme=dark&perline=4" alt="C and Blender" />
+      <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" height="48" alt="OpenGL" />
+      <br /><br />
+    </td>
   </tr>
   <tr>
-    <td align="center"><b>Databases</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" alt="Databases" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Tools & DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vscode,visualstudio,blender&theme=dark" alt="Tools and Blender" /></td>
+    <td width="50%" align="center" valign="top">
+      <br />
+      <b>Tools & DevOps</b><br />
+      <sub>Version control, containers and CI</sub><br /><br />
+      <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vscode,visualstudio&theme=dark&perline=6" alt="Git, GitHub, GitHub Actions, Docker, VS Code and Visual Studio" />
+      <br /><br />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <br />
+      <b>Learning now</b><br />
+      <sub>What I'm adding to my toolkit</sub><br /><br />
+      <img src="https://skillicons.dev/icons?i=java,spring,js,blender&theme=dark&perline=4" alt="Java, Spring, JavaScript and Blender" />
+      <br /><br />
+    </td>
   </tr>
 </table>
 
