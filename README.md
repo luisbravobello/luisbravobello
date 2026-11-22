@@ -33,7 +33,7 @@ I build applications that solve real problems, working across **backend systems*
 - Based in **Punta Cana, Dominican Republic**
 - Main stack: **C#**, **.NET** and **SQL**
 - Also building 3D scenes with **C + OpenGL** for computer graphics
-- Currently learning **JavaScript**, **React** and **Spring Boot**
+- Currently learning **JavaScript**, **Spring Boot** and **3D modeling with Blender**
 - Open to collaborating on projects and learning opportunities
 
 ```csharp
@@ -41,8 +41,8 @@ public record Developer
 {
     public string Name      => "Luis Alejandro Bravo Bello";
     public string Role      => "Full Stack Developer";
-    public string[] Stack   => ["C#", ".NET", "SQL", "JavaScript", "React"];
-    public string[] Focus   => ["Clean Architecture", "Web Security", "DevOps"];
+    public string[] Stack   => ["C#", ".NET", "SQL", "JavaScript", "C"];
+    public string[] Focus   => ["Clean Architecture", "Web Security", "3D Modeling"];
     public string Motto     => "Start with the problem, then choose the tool.";
 }
 ```
@@ -54,11 +54,11 @@ public record Developer
 <table align="center">
   <tr>
     <td align="center"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=cs,c,java,js,ts,html,css&theme=dark" alt="Languages" /></td>
+    <td><img src="https://skillicons.dev/icons?i=cs,c,java,js,html,css&theme=dark" alt="Languages" /></td>
   </tr>
   <tr>
     <td align="center"><b>Frameworks</b></td>
-    <td><img src="https://skillicons.dev/icons?i=dotnet,react,vite,tailwind,nodejs,express,spring&theme=dark" alt="Frameworks" /></td>
+    <td><img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,spring&theme=dark" alt="Frameworks" /></td>
   </tr>
   <tr>
     <td align="center"><b>Databases</b></td>
@@ -66,7 +66,7 @@ public record Developer
   </tr>
   <tr>
     <td align="center"><b>Tools & DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,nginx,vscode,visualstudio&theme=dark" alt="Tools" /></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,nginx,vscode,visualstudio,blender&theme=dark" alt="Tools, DevOps and Blender" /></td>
   </tr>
 </table>
 
