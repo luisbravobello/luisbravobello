@@ -1,20 +1,20 @@
 {
   "type": "normal",
   "fileName": "profile-3d-luis.svg",
-  "backgroundColor": "#F8FAFC",
-  "foregroundColor": "#0F172A",
-  "strongColor": "#0369A1",
-  "weakColor": "#64748B",
-  "radarColor": "#0EA5E9",
+  "backgroundColor": "#FFF4EC",
+  "foregroundColor": "#1A0B2E",
+  "strongColor": "#FF2E97",
+  "weakColor": "#7B2CBF",
+  "radarColor": "#FF2E97",
   "growingAnimation": true,
-  "contribColors": ["#E2E8F0", "#BAE6FD", "#7DD3FC", "#0EA5E9", "#0369A1"],
+  "contribColors": ["#F3E8FF", "#FFC857", "#FF8C42", "#FF2E97", "#7B2CBF"],
   "darkMode": {
     "type": "normal",
-    "backgroundColor": "#0F172A",
-    "foregroundColor": "#E0F2FE",
-    "strongColor": "#38BDF8",
-    "weakColor": "#94A3B8",
-    "radarColor": "#38BDF8",
-    "contribColors": ["#1E293B", "#0C4A6E", "#0369A1", "#0EA5E9", "#7DD3FC"]
+    "backgroundColor": "#1A0B2E",
+    "foregroundColor": "#FFE8F3",
+    "strongColor": "#FF2E97",
+    "weakColor": "#C4B5FD",
+    "radarColor": "#FF8C42",
+    "contribColors": ["#2D1648", "#7B2CBF", "#FF2E97", "#FF8C42", "#FFC857"]
   }
 }
