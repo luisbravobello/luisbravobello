@@ -1,5 +1,6 @@
 """Genera el panel animado de Tech stack con íconos de skillicons.dev incrustados."""
 import os, re, sys, urllib.request
+from html import escape
 
 OUT = sys.argv[1] if len(sys.argv) > 1 else "dist/stack.svg"
 
@@ -49,8 +50,8 @@ def build():
         parts.append(f'<g class="card" style="animation-delay:{d:.2f}s">')
         parts.append(f'<rect x="{x}" y="{y}" width="{card_w}" height="{card_h}" rx="14" fill="#2D1648" fill-opacity="0.75" stroke="{color}" stroke-opacity="0.28"/>')
         parts.append(f'<rect x="{x}" y="{y+18}" width="4" height="34" rx="2" fill="{color}"/>')
-        parts.append(f'<text x="{x+20}" y="{y+36}" class="h">{title}</text>')
-        parts.append(f'<text x="{x+20}" y="{y+54}" class="s">{sub}</text>')
+        parts.append(f'<text x="{x+20}" y="{y+36}" class="h">{escape(title)}</text>')
+        parts.append(f'<text x="{x+20}" y="{y+54}" class="s">{escape(sub)}</text>')
         size, step = 42, 52
         for ii, name in enumerate(icons):
             inner, vb = icon(name, k); k += 1
