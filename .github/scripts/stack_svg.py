@@ -48,7 +48,7 @@ def build():
         y = pad + r * (card_h + gap)
         d = 0.12 * gi
         parts.append(f'<g class="card" style="animation-delay:{d:.2f}s">')
-        parts.append(f'<rect x="{x}" y="{y}" width="{card_w}" height="{card_h}" rx="14" fill="none" stroke="#30363d"/>')
+        parts.append(f'<rect x="{x}" y="{y}" width="{card_w}" height="{card_h}" rx="14" fill="none"/>')
         parts.append(f'<rect x="{x}" y="{y+18}" width="4" height="34" rx="2" fill="{color}"/>')
         parts.append(f'<text x="{x+20}" y="{y+36}" class="h">{escape(title)}</text>')
         parts.append(f'<text x="{x+20}" y="{y+54}" class="s">{escape(sub)}</text>')

@@ -24,7 +24,7 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
 
       - name: Generate tech stack panel
-        run: python3 .github/scripts/stack_svg.py dist/tech-stack.svg
+        run: python3 .github/scripts/stack_svg.py dist/stack-panel.svg
 
       - name: Generate Pac-Man SVGs
         uses: abozanona/pacman-contribution-graph@main
