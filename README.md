@@ -163,7 +163,7 @@ var luis = new Developer
 ## GitHub stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/luisbravobello/luisbravobello/output/profile-3d-luis.svg" width="100%" alt="3D contribution calendar" />
+  <img src="https://raw.githubusercontent.com/luisbravobello/luisbravobello/output/activity.svg" width="100%" alt="Weekly activity animation" />
 </p>
 
 <p align="center">

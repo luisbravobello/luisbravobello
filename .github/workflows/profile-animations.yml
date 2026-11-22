@@ -17,23 +17,17 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v5
 
-      - name: Generate 3D contribution graph
-        uses: yoshi389111/github-profile-3d-contrib@latest
+      - name: Generate activity animation
+        run: python3 .github/scripts/activity_svg.py dist/activity.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: .github/profile-3d-settings.json
 
       - name: Generate Pac-Man SVGs
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
           games: "pacman"
-
-      - name: Collect SVGs
-        run: |
-          mkdir -p dist
-          cp profile-3d-contrib/profile-3d-luis.svg dist/
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
