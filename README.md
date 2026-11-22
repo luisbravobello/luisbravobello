@@ -28,38 +28,12 @@
 
 I build applications that solve real problems, working across **backend systems**, **frontend interfaces** and **databases**. I care about readable code, clear responsibilities and architectures that can grow with a project.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <b>Education</b><br />
-      <sub>Software Engineering at Universidad Central del Este (UCE)</sub>
-    </td>
-    <td width="50%" valign="top">
-      <b>Location</b><br />
-      <sub>Punta Cana, Dominican Republic</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b>Main stack</b><br />
-      <sub>C#, .NET and SQL for backend systems and APIs</sub>
-    </td>
-    <td width="50%" valign="top">
-      <b>Computer graphics</b><br />
-      <sub>3D scenes and simulations with C and OpenGL</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b>Currently learning</b><br />
-      <sub>JavaScript, Spring Boot and 3D modeling with Blender</sub>
-    </td>
-    <td width="50%" valign="top">
-      <b>Open to</b><br />
-      <sub>Collaborating on projects and learning opportunities</sub>
-    </td>
-  </tr>
-</table>
+- <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%23FF2E97&height=22" height="22" align="center" alt="" /> &nbsp;**Education:** Software Engineering student at **Universidad Central del Este (UCE)**
+- <img src="https://api.iconify.design/lucide/map-pin.svg?color=%23FF8C42&height=22" height="22" align="center" alt="" /> &nbsp;**Location:** Based in **Punta Cana, Dominican Republic**
+- <img src="https://api.iconify.design/lucide/server.svg?color=%23FFC857&height=22" height="22" align="center" alt="" /> &nbsp;**Main stack:** **C#**, **.NET** and **SQL** for backend systems and APIs
+- <img src="https://api.iconify.design/lucide/box.svg?color=%23FF2E97&height=22" height="22" align="center" alt="" /> &nbsp;**Computer graphics:** 3D scenes and simulations with **C + OpenGL**
+- <img src="https://api.iconify.design/lucide/book-open.svg?color=%23FF8C42&height=22" height="22" align="center" alt="" /> &nbsp;**Currently learning:** **JavaScript**, **Spring Boot** and **3D modeling with Blender**
+- <img src="https://api.iconify.design/lucide/handshake.svg?color=%23FFC857&height=22" height="22" align="center" alt="" /> &nbsp;**Open to:** Collaborating on projects and learning opportunities
 
 ```csharp
 var luis = new Developer
