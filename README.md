@@ -176,9 +176,9 @@ var luis = new Developer
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luisbravobello/luisbravobello/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luisbravobello/luisbravobello/output/pacman-contribution-graph.svg" />
-    <img alt="Pac-Man eating my contributions" src="https://raw.githubusercontent.com/luisbravobello/luisbravobello/output/pacman-contribution-graph.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luisbravobello/luisbravobello/output/pacman-contribution-graph-dark.svg?v=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luisbravobello/luisbravobello/output/pacman-contribution-graph.svg?v=2" />
+    <img alt="Pac-Man eating my contributions" src="https://raw.githubusercontent.com/luisbravobello/luisbravobello/output/pacman-contribution-graph.svg?v=2" />
   </picture>
 </p>
 
