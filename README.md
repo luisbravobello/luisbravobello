@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Luis Alejandro Bravo Bello" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C42,45:FF2E97,100:7B2CBF&height=230&section=header&text=Luis%20Alejandro%20Bravo%20Bello&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Software%20Engineering%20Student%20%40%20UCE&descAlignY=56&descSize=17" width="100%" alt="Luis Alejandro Bravo Bello" />
 </p>
 
 <!-- ===================== TYPING ===================== -->
@@ -22,8 +22,9 @@
   <a href="https://github.com/luisbravobello/portfolio"><img src="https://img.shields.io/badge/Portfolio-7B2CBF?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
 </p>
 
-<a id="about-me"></a>
-<p align="center"><img src="./assets/title-about.svg" width="100%" alt="About me" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C42,50:FF2E97,100:7B2CBF&height=3" width="100%" alt="" /></p>
+
+## About me
 
 I build applications that solve real problems, working across **backend systems**, **frontend interfaces** and **databases**. I care about readable code, clear responsibilities and architectures that can grow with a project.
 
@@ -71,8 +72,9 @@ var luis = new Developer
 };
 ```
 
-<a id="tech-stack"></a>
-<p align="center"><img src="./assets/title-stack.svg" width="100%" alt="Tech stack" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C42,50:FF2E97,100:7B2CBF&height=3" width="100%" alt="" /></p>
+
+## Tech stack
 
 <table>
   <tr>
@@ -125,8 +127,9 @@ var luis = new Developer
   </tr>
 </table>
 
-<a id="featured-projects"></a>
-<p align="center"><img src="./assets/title-projects.svg" width="100%" alt="Featured projects" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C42,50:FF2E97,100:7B2CBF&height=3" width="100%" alt="" /></p>
+
+## Featured projects
 
 <table>
   <tr>
@@ -181,8 +184,9 @@ var luis = new Developer
   <a href="https://github.com/luisbravobello?tab=repositories"><img src="https://img.shields.io/badge/See_all_repositories-FF2E97?style=for-the-badge&logo=github&logoColor=white&labelColor=1A0B2E" alt="All repositories" /></a>
 </p>
 
-<a id="github-stats"></a>
-<p align="center"><img src="./assets/title-stats.svg" width="100%" alt="GitHub stats" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C42,50:FF2E97,100:7B2CBF&height=3" width="100%" alt="" /></p>
+
+## GitHub stats
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/luisbravobello/luisbravobello/output/profile-3d-luis.svg" width="100%" alt="3D contribution calendar" />
@@ -192,8 +196,9 @@ var luis = new Developer
   <img src="https://streak-stats.demolab.com/?user=luisbravobello&background=1A0B2E&stroke=7B2CBF&ring=FF2E97&fire=FF8C42&currStreakNum=ffffff&currStreakLabel=FF2E97&sideNums=ffffff&sideLabels=FFC857&dates=C4B5FD&hide_border=true&border_radius=12" alt="GitHub streak" />
 </p>
 
-<a id="contribution-pac-man"></a>
-<p align="center"><img src="./assets/title-pacman.svg" width="100%" alt="Contribution Pac-Man" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C42,50:FF2E97,100:7B2CBF&height=3" width="100%" alt="" /></p>
+
+## Contribution Pac-Man
 
 <p align="center">
   <picture>
@@ -203,8 +208,9 @@ var luis = new Developer
   </picture>
 </p>
 
-<a id="lets-connect"></a>
-<p align="center"><img src="./assets/title-connect.svg" width="100%" alt="Let's connect" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C42,50:FF2E97,100:7B2CBF&height=3" width="100%" alt="" /></p>
+
+## Let's connect
 
 Have a project, an idea or a learning opportunity to share? Write me at **[luisbravobello@gmail.com](mailto:luisbravobello@gmail.com)**.
 
@@ -217,5 +223,5 @@ Have a project, an idea or a learning opportunity to share? Write me at **[luisb
 </p>
 
 <p align="center">
-  <img src="./assets/footer.svg" width="100%" alt="Thanks for visiting" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,55:FF2E97,100:FF8C42&height=120&section=footer" width="100%" alt="" />
 </p>
