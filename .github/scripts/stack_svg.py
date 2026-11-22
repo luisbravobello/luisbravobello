@@ -37,7 +37,7 @@ def icon(name, k):
 
 def build():
     W = 900
-    cols, card_w, card_h, gap, pad = 2, 412, 128, 20, 28
+    cols, card_w, card_h, gap, pad = 2, 440, 128, 20, 0
     rows = (len(GROUPS) + cols - 1) // cols
     H = pad * 2 + rows * card_h + (rows - 1) * gap
     font = "'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif"
@@ -77,8 +77,6 @@ text{{font-family:{font}}}
 @keyframes in{{from{{opacity:0;transform:translateY(10px)}}to{{opacity:1;transform:none}}}}
 @keyframes pop{{from{{opacity:0;transform:translateY(8px)}}to{{opacity:1;transform:none}}}}
 </style>
-<rect width="{W}" height="{H}" rx="18" fill="url(#bg)"/>
-<rect x="1" y="1" width="{W-2}" height="{H-2}" rx="17" fill="none" stroke="url(#edge)" stroke-opacity="0.7" stroke-width="1.5"/>
 {''.join(parts)}
 </svg>'''
 
