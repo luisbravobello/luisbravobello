@@ -26,7 +26,6 @@
 
 ## 👨‍💻 About me
 
-<img align="right" width="40%" src="https://github-readme-activity-graph.vercel.app/graph?username=luisbravobello&bg_color=0F172A&color=E0F2FE&line=38BDF8&point=ffffff&area=true&area_color=0EA5E9&hide_border=true&radius=12&custom_title=Contributions&height=260" alt="Contribution graph" />
 
 I build applications that solve real problems, working across **backend systems**, **frontend interfaces** and **databases**. I care about readable code, clear responsibilities and architectures that can grow with a project.
 
@@ -36,8 +35,6 @@ I build applications that solve real problems, working across **backend systems*
 - 🎮 Also building 3D scenes with **C + OpenGL** for computer graphics
 - 🌱 Currently learning **JavaScript**, **React** and **Spring Boot**
 - 🤝 Open to collaborating on projects and learning opportunities
-
-<br clear="right" />
 
 ```csharp
 public record Developer
@@ -133,6 +130,10 @@ public record Developer
 ---
 
 ## 📊 GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luisbravobello&bg_color=0F172A&color=E0F2FE&line=38BDF8&point=ffffff&area=true&area_color=0EA5E9&hide_border=true&radius=12&custom_title=Contribution%20activity" width="100%" alt="Contribution activity graph" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=luisbravobello&stroke=38BDF8&background=0F172A&ring=38BDF8&fire=0EA5E9&currStreakNum=ffffff&currStreakLabel=38BDF8&sideNums=ffffff&sideLabels=E0F2FE&dates=94A3B8&hide_border=true&border_radius=12" alt="GitHub streak" />
