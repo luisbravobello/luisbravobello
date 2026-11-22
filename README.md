@@ -47,7 +47,7 @@ var luis = new Developer
 ## Tech stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/luisbravobello/luisbravobello/output/stack.svg?v=3" width="100%" alt="Tech stack: C#, .NET, Node.js, Express, MySQL, PostgreSQL, SQLite, HTML, CSS, JavaScript, C, Blender, Git, GitHub, GitHub Actions, Docker, VS Code, Visual Studio, Java and Spring" />
+  <img src="https://raw.githubusercontent.com/luisbravobello/luisbravobello/output/techstack.svg" width="100%" alt="Tech stack: C#, .NET, Node.js, Express, MySQL, PostgreSQL, SQLite, HTML, CSS, JavaScript, C, Blender, Git, GitHub, GitHub Actions, Docker, VS Code, Visual Studio, Java and Spring" />
 </p>
 
 ## Featured projects
