@@ -66,7 +66,7 @@ public record Developer
   </tr>
   <tr>
     <td align="center"><b>Tools & DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,nginx,vscode,visualstudio,blender&theme=dark" alt="Tools, DevOps and Blender" /></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vscode,visualstudio,blender&theme=dark" alt="Tools and Blender" /></td>
   </tr>
 </table>
 
