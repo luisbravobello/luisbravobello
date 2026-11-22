@@ -6,7 +6,7 @@
 <!-- ===================== TYPING ===================== -->
 <p align="center">
   <a href="https://github.com/luisbravobello">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Luis+%F0%9F%91%8B;Full+Stack+Developer+%7C+C%23+%26+.NET;Clean+Architecture+%E2%80%A2+APIs+%E2%80%A2+Databases;Computer+Graphics+with+OpenGL+%F0%9F%8E%AE;Based+in+Punta+Cana%2C+DR+%F0%9F%8C%B4" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Luis;Full+Stack+Developer+%7C+C%23+%26+.NET;Clean+Architecture+%E2%80%A2+APIs+%E2%80%A2+Databases;Computer+Graphics+with+OpenGL;Based+in+Punta+Cana%2C+DR" alt="Typing SVG" />
   </a>
 </p>
 
@@ -24,17 +24,17 @@
 
 ---
 
-## 👨‍💻 About me
+## About me
 
 
 I build applications that solve real problems, working across **backend systems**, **frontend interfaces** and **databases**. I care about readable code, clear responsibilities and architectures that can grow with a project.
 
-- 🎓 Software Engineering student at **Universidad Central del Este (UCE)**
-- 🌴 Based in **Punta Cana, Dominican Republic**
-- 🧱 Main stack: **C#**, **.NET** and **SQL**
-- 🎮 Also building 3D scenes with **C + OpenGL** for computer graphics
-- 🌱 Currently learning **JavaScript**, **React** and **Spring Boot**
-- 🤝 Open to collaborating on projects and learning opportunities
+- Software Engineering student at **Universidad Central del Este (UCE)**
+- Based in **Punta Cana, Dominican Republic**
+- Main stack: **C#**, **.NET** and **SQL**
+- Also building 3D scenes with **C + OpenGL** for computer graphics
+- Currently learning **JavaScript**, **React** and **Spring Boot**
+- Open to collaborating on projects and learning opportunities
 
 ```csharp
 public record Developer
@@ -49,7 +49,7 @@ public record Developer
 
 ---
 
-## 🛠️ Tech stack
+## Tech stack
 
 <table align="center">
   <tr>
@@ -72,12 +72,12 @@ public record Developer
 
 ---
 
-## 🚀 Featured projects
+## Featured projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🩺 <a href="https://github.com/luisbravobello/envDoctor">EnvDoctor</a></h3>
+      <h3><a href="https://github.com/luisbravobello/envDoctor">EnvDoctor</a></h3>
       <p>Diagnoses why a project doesn't build, start or behave the same across machines, combining deterministic rules with an AI assistant that always cites its evidence.</p>
       <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -86,7 +86,7 @@ public record Developer
       <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h3>🔐 <a href="https://github.com/luisbravobello/MiniBuz-Seguro">MiniBuzón Seguro</a></h3>
+      <h3><a href="https://github.com/luisbravobello/MiniBuz-Seguro">MiniBuzón Seguro</a></h3>
       <p>Report-box system with an admin panel, built around four web security protections: SQL Injection, XSS, CSRF and malicious file uploads.</p>
       <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
@@ -95,13 +95,13 @@ public record Developer
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚉 <a href="https://github.com/luisbravobello/estacion-tren-opengl">Estación Central 3D</a></h3>
+      <h3><a href="https://github.com/luisbravobello/estacion-tren-opengl">Estación Central 3D</a></h3>
       <p>3D train station simulation in C with OpenGL and GLUT: multiple viewports, night mode and a lighting lab.</p>
       <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
       <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h3>🛸 <a href="https://github.com/luisbravobello/Simulador-Aliasing--MSAA-Y-SAOO">Aliasing, MSAA & SSAO Simulator</a></h3>
+      <h3><a href="https://github.com/luisbravobello/Simulador-Aliasing--MSAA-Y-SAOO">Aliasing, MSAA & SSAO Simulator</a></h3>
       <p>Interactive educational simulator that visualizes aliasing, multi-sample anti-aliasing and ambient occlusion with a retro arcade spaceship.</p>
       <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
       <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white" />
@@ -109,13 +109,13 @@ public record Developer
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/luisbravobello/pokeatlas">PokéAtlas</a></h3>
+      <h3><a href="https://github.com/luisbravobello/pokeatlas">PokéAtlas</a></h3>
       <p>Pokémon reference site: Pokédex by region, type matchups, items and a Kanto guide. Pure HTML, CSS and JavaScript.</p>
       <a href="https://pokeatlas.pages.dev/"><img src="https://img.shields.io/badge/Live_demo-0EA5E9?style=flat-square&logo=cloudflarepages&logoColor=white" /></a>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
     </td>
     <td width="50%" valign="top">
-      <h3>🌊 <a href="https://github.com/luisbravobello/costa-clara">Costa Clara</a> · ⚽ <a href="https://github.com/luisbravobello/full-time">FULL TIME</a></h3>
+      <h3><a href="https://github.com/luisbravobello/costa-clara">Costa Clara</a> · <a href="https://github.com/luisbravobello/full-time">FULL TIME</a></h3>
       <p>Published websites showcased in my portfolio.</p>
       <a href="https://costa-clara.pages.dev/"><img src="https://img.shields.io/badge/Costa_Clara-Live-0EA5E9?style=flat-square&logo=cloudflarepages&logoColor=white" /></a>
       <a href="https://full-time-edb.pages.dev/"><img src="https://img.shields.io/badge/FULL_TIME-Live-0EA5E9?style=flat-square&logo=cloudflarepages&logoColor=white" /></a>
@@ -129,7 +129,7 @@ public record Developer
 
 ---
 
-## 📊 GitHub stats
+## GitHub stats
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=luisbravobello&bg_color=0F172A&color=E0F2FE&line=38BDF8&point=ffffff&area=true&area_color=0EA5E9&hide_border=true&radius=12&custom_title=Contribution%20activity" width="100%" alt="Contribution activity graph" />
@@ -141,7 +141,7 @@ public record Developer
 
 ---
 
-## 🐍 Contribution snake
+## Contribution snake
 
 <p align="center">
   <picture>
@@ -153,7 +153,7 @@ public record Developer
 
 ---
 
-## 🌐 Let's connect
+## Let's connect
 
 Have a project, an idea or a learning opportunity to share? Write me at **[luisbravobello@gmail.com](mailto:luisbravobello@gmail.com)**.
 
