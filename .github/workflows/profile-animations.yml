@@ -1,4 +1,4 @@
-name: Generate Pac-Man contribution graph
+name: Generate profile animations
 
 on:
   schedule:
@@ -14,11 +14,26 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Generate 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: .github/profile-3d-settings.json
+
       - name: Generate Pac-Man SVGs
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
           games: "pacman"
+
+      - name: Collect SVGs
+        run: |
+          mkdir -p dist
+          cp profile-3d-contrib/profile-3d-luis.svg dist/
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4

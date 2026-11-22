@@ -132,7 +132,7 @@ public record Developer
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luisbravobello&bg_color=0F172A&color=E0F2FE&line=38BDF8&point=ffffff&area=true&area_color=0EA5E9&hide_border=true&radius=12&custom_title=Contribution%20activity" width="100%" alt="Contribution activity graph" />
+  <img src="https://raw.githubusercontent.com/luisbravobello/luisbravobello/output/profile-3d-luis.svg" width="100%" alt="3D contribution calendar" />
 </p>
 
 <p align="center">

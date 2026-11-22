@@ -1,0 +1,20 @@
+{
+  "type": "normal",
+  "fileName": "profile-3d-luis.svg",
+  "backgroundColor": "#F8FAFC",
+  "foregroundColor": "#0F172A",
+  "strongColor": "#0369A1",
+  "weakColor": "#64748B",
+  "radarColor": "#0EA5E9",
+  "growingAnimation": true,
+  "contribColors": ["#E2E8F0", "#BAE6FD", "#7DD3FC", "#0EA5E9", "#0369A1"],
+  "darkMode": {
+    "type": "normal",
+    "backgroundColor": "#0F172A",
+    "foregroundColor": "#E0F2FE",
+    "strongColor": "#38BDF8",
+    "weakColor": "#94A3B8",
+    "radarColor": "#38BDF8",
+    "contribColors": ["#1E293B", "#0C4A6E", "#0369A1", "#0EA5E9", "#7DD3FC"]
+  }
+}
