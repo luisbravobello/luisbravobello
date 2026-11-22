@@ -37,7 +37,7 @@ def icon(name, k):
 
 def build():
     W = 900
-    cols, card_w, card_h, gap, pad = 2, 440, 128, 20, 0
+    cols, card_w, card_h, gap, pad = 2, 438, 128, 20, 2
     rows = (len(GROUPS) + cols - 1) // cols
     H = pad * 2 + rows * card_h + (rows - 1) * gap
     font = "'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif"
