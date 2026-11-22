@@ -22,8 +22,6 @@
   <a href="https://github.com/luisbravobello/portfolio"><img src="https://img.shields.io/badge/Portfolio-7B2CBF?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
 </p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C42,50:FF2E97,100:7B2CBF&height=3" width="100%" alt="" /></p>
-
 ## About me
 
 I build applications that solve real problems, working across **backend systems**, **frontend interfaces** and **databases**. I care about readable code, clear responsibilities and architectures that can grow with a project.
@@ -46,62 +44,11 @@ var luis = new Developer
 };
 ```
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C42,50:FF2E97,100:7B2CBF&height=3" width="100%" alt="" /></p>
-
 ## Tech stack
 
-<table>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <br />
-      <b>Backend</b><br />
-      <sub>APIs, business logic and architecture</sub><br /><br />
-      <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express&theme=dark&perline=4" alt="C#, .NET, Node.js and Express" />
-      <br /><br />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <br />
-      <b>Databases</b><br />
-      <sub>Modeling, queries and persistence</sub><br /><br />
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark&perline=4" alt="MySQL, PostgreSQL and SQLite" />
-      <br /><br />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <br />
-      <b>Web</b><br />
-      <sub>Structure, styling and interaction</sub><br /><br />
-      <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark&perline=4" alt="HTML, CSS and JavaScript" />
-      <br /><br />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <br />
-      <b>Graphics & 3D</b><br />
-      <sub>OpenGL rendering, simulations and modeling</sub><br /><br />
-      <img src="https://skillicons.dev/icons?i=c,blender&theme=dark&perline=4" alt="C and Blender" />
-      <br /><br />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <br />
-      <b>Tools & DevOps</b><br />
-      <sub>Version control, containers and CI</sub><br /><br />
-      <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vscode,visualstudio&theme=dark&perline=6" alt="Git, GitHub, GitHub Actions, Docker, VS Code and Visual Studio" />
-      <br /><br />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <br />
-      <b>Learning now</b><br />
-      <sub>What I'm adding to my toolkit</sub><br /><br />
-      <img src="https://skillicons.dev/icons?i=java,spring,js,blender&theme=dark&perline=4" alt="Java, Spring, JavaScript and Blender" />
-      <br /><br />
-    </td>
-  </tr>
-</table>
-
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C42,50:FF2E97,100:7B2CBF&height=3" width="100%" alt="" /></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/luisbravobello/luisbravobello/output/stack.svg" width="100%" alt="Tech stack: C#, .NET, Node.js, Express, MySQL, PostgreSQL, SQLite, HTML, CSS, JavaScript, C, Blender, Git, GitHub, GitHub Actions, Docker, VS Code, Visual Studio, Java and Spring" />
+</p>
 
 ## Featured projects
 
@@ -158,8 +105,6 @@ var luis = new Developer
   <a href="https://github.com/luisbravobello?tab=repositories"><img src="https://img.shields.io/badge/See_all_repositories-FF2E97?style=for-the-badge&logo=github&logoColor=white&labelColor=1A0B2E" alt="All repositories" /></a>
 </p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C42,50:FF2E97,100:7B2CBF&height=3" width="100%" alt="" /></p>
-
 ## GitHub stats
 
 <p align="center">
@@ -170,8 +115,6 @@ var luis = new Developer
   <img src="https://streak-stats.demolab.com/?user=luisbravobello&background=1A0B2E&stroke=7B2CBF&ring=FF2E97&fire=FF8C42&currStreakNum=ffffff&currStreakLabel=FF2E97&sideNums=ffffff&sideLabels=FFC857&dates=C4B5FD&hide_border=true&border_radius=12" alt="GitHub streak" />
 </p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C42,50:FF2E97,100:7B2CBF&height=3" width="100%" alt="" /></p>
-
 ## Contribution Pac-Man
 
 <p align="center">
@@ -181,8 +124,6 @@ var luis = new Developer
     <img alt="Pac-Man eating my contributions" src="https://raw.githubusercontent.com/luisbravobello/luisbravobello/output/pacman-contribution-graph.svg?v=2" />
   </picture>
 </p>
-
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C42,50:FF2E97,100:7B2CBF&height=3" width="100%" alt="" /></p>
 
 ## Let's connect
 
