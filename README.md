@@ -104,9 +104,8 @@ var luis = new Developer
     <td width="50%" align="center" valign="top">
       <br />
       <b>Graphics & 3D</b><br />
-      <sub>Rendering, simulations and modeling</sub><br /><br />
+      <sub>OpenGL rendering, simulations and modeling</sub><br /><br />
       <img src="https://skillicons.dev/icons?i=c,blender&theme=dark&perline=4" alt="C and Blender" />
-      <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" height="48" alt="OpenGL" />
       <br /><br />
     </td>
   </tr>
