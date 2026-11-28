@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1A0B2E"/><stop offset="1" stop-color="#2A0F45"/></linearGradient>
+<linearGradient id="bar" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#7B2CBF"/><stop offset="0.55" stop-color="#FF2E97"/><stop offset="1" stop-color="#FF8C42"/></linearGradient>
+<linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffffff" stop-opacity="0"/><stop offset="0.5" stop-color="#ffffff" stop-opacity="0.16"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></linearGradient>
+<clipPath id="area"><rect x="324" y="26" width="562" height="146"/></clipPath>
+</defs>
+<style>
+text{font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif}
+.v{font-size:24px;font-weight:800}
+.l{font-size:11px;fill:#C4B5FD;letter-spacing:1px;text-transform:uppercase}
+.t{font-size:12px;fill:#C4B5FD;letter-spacing:1px}
+.b{transform-box:fill-box;transform-origin:bottom;transform:scaleY(0);animation:grow .7s cubic-bezier(.2,.9,.3,1.2) forwards}
+.p{opacity:0;animation:pop .5s 1.8s forwards, pulse 1.6s 2.3s ease-in-out infinite}
+.s{opacity:0;animation:fade .6s forwards}
+.sw{animation:sweep 3.5s 1.6s linear infinite;transform:translateX(-200px)}
+@keyframes grow{to{transform:scaleY(1)}}
+@keyframes fade{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:none}}
+@keyframes pop{to{opacity:1}}
+@keyframes pulse{50%{opacity:.25}}
+@keyframes sweep{to{transform:translateX(750px)}}
+</style>
+<rect width="900" height="200" rx="14" fill="url(#bg)"/>
+<rect x="0.5" y="0.5" width="899" height="199" rx="14" fill="none" stroke="#7B2CBF" stroke-opacity="0.45"/>
+<line x1="300" y1="28" x2="300" y2="172" stroke="#7B2CBF" stroke-opacity="0.4"/>
+<text x="330" y="26" class="t">WEEKLY ACTIVITY · LAST 26 WEEKS</text>
+<line x1="324" y1="168.5" x2="886" y2="168.5" stroke="#7B2CBF" stroke-opacity="0.5"/>
+<g class="s" style="animation-delay:0.20s"><rect x="28" y="38" width="4" height="34" rx="2" fill="#FF2E97"/><text x="44" y="62" class="v" fill="#FF2E97">272</text><text x="44" y="77" class="l">Contributions</text></g><g class="s" style="animation-delay:0.35s"><rect x="28" y="84" width="4" height="34" rx="2" fill="#FF8C42"/><text x="44" y="108" class="v" fill="#FF8C42">52</text><text x="44" y="123" class="l">Active days</text></g><g class="s" style="animation-delay:0.50s"><rect x="28" y="130" width="4" height="34" rx="2" fill="#FFC857"/><text x="44" y="154" class="v" fill="#FFC857">22</text><text x="44" y="169" class="l">Best day</text></g>
+<g clip-path="url(#area)"><rect class="b" x="334.0" y="123.7" width="13.1" height="44.3" rx="5.0" fill="url(#bar)" style="animation-delay:0.00s"/><rect class="b" x="355.2" y="164.0" width="13.1" height="4.0" rx="5.0" fill="#2D1648" style="animation-delay:0.06s"/><rect class="b" x="376.3" y="164.0" width="13.1" height="4.0" rx="5.0" fill="url(#bar)" style="animation-delay:0.12s"/><rect class="b" x="397.5" y="160.6" width="13.1" height="7.4" rx="5.0" fill="url(#bar)" style="animation-delay:0.18s"/><rect class="b" x="418.6" y="49.8" width="13.1" height="118.2" rx="5.0" fill="url(#bar)" style="animation-delay:0.24s"/><rect class="b" x="439.8" y="148.3" width="13.1" height="19.7" rx="5.0" fill="url(#bar)" style="animation-delay:0.30s"/><rect class="b" x="460.9" y="164.0" width="13.1" height="4.0" rx="5.0" fill="url(#bar)" style="animation-delay:0.36s"/><rect class="b" x="482.1" y="101.5" width="13.1" height="66.5" rx="5.0" fill="url(#bar)" style="animation-delay:0.42s"/><rect class="b" x="503.2" y="126.2" width="13.1" height="41.8" rx="5.0" fill="url(#bar)" style="animation-delay:0.48s"/><rect class="b" x="524.4" y="164.0" width="13.1" height="4.0" rx="5.0" fill="#2D1648" style="animation-delay:0.54s"/><rect class="b" x="545.6" y="164.0" width="13.1" height="4.0" rx="5.0" fill="#2D1648" style="animation-delay:0.60s"/><rect class="b" x="566.7" y="145.8" width="13.1" height="22.2" rx="5.0" fill="url(#bar)" style="animation-delay:0.66s"/><rect class="b" x="587.9" y="164.0" width="13.1" height="4.0" rx="5.0" fill="#2D1648" style="animation-delay:0.72s"/><rect class="b" x="609.0" y="164.0" width="13.1" height="4.0" rx="5.0" fill="url(#bar)" style="animation-delay:0.78s"/><rect class="b" x="630.2" y="131.1" width="13.1" height="36.9" rx="5.0" fill="url(#bar)" style="animation-delay:0.84s"/><rect class="b" x="651.3" y="131.1" width="13.1" height="36.9" rx="5.0" fill="url(#bar)" style="animation-delay:0.90s"/><rect class="b" x="672.5" y="164.0" width="13.1" height="4.0" rx="5.0" fill="#2D1648" style="animation-delay:0.96s"/><rect class="b" x="693.6" y="118.8" width="13.1" height="49.2" rx="5.0" fill="url(#bar)" style="animation-delay:1.02s"/><rect class="b" x="714.8" y="40.0" width="13.1" height="128.0" rx="5.0" fill="url(#bar)" style="animation-delay:1.08s"/><circle class="p" cx="721.3" cy="31.0" r="3.5" fill="#FFC857"/><rect class="b" x="735.9" y="158.2" width="13.1" height="9.8" rx="5.0" fill="url(#bar)" style="animation-delay:1.14s"/><rect class="b" x="757.1" y="164.0" width="13.1" height="4.0" rx="5.0" fill="url(#bar)" style="animation-delay:1.20s"/><rect class="b" x="778.2" y="164.0" width="13.1" height="4.0" rx="5.0" fill="#2D1648" style="animation-delay:1.26s"/><rect class="b" x="799.4" y="160.6" width="13.1" height="7.4" rx="5.0" fill="url(#bar)" style="animation-delay:1.32s"/><rect class="b" x="820.6" y="143.4" width="13.1" height="24.6" rx="5.0" fill="url(#bar)" style="animation-delay:1.38s"/><rect class="b" x="841.7" y="163.1" width="13.1" height="4.9" rx="5.0" fill="url(#bar)" style="animation-delay:1.44s"/><rect class="b" x="862.9" y="143.4" width="13.1" height="24.6" rx="5.0" fill="url(#bar)" style="animation-delay:1.50s"/><rect class="sw" x="324" y="26" width="120" height="146" fill="url(#sweep)"/></g>
+<text x="880" y="188" class="t" text-anchor="end">Updated 2026-11-28</text>
+</svg>
