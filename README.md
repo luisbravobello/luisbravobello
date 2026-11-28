@@ -53,6 +53,16 @@ var luis = new Developer
 ## Featured projects
 
 <table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/luisbravobello/envDoctor">EnvDoctor</a></h3>
+      <p>Diagnoses why a project doesn't build, start or behave the same across machines, combining deterministic rules with an AI assistant that always cites its evidence.</p>
+      <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+    </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/luisbravobello/MiniBuz-Seguro">MiniBuzón Seguro</a></h3>
       <p>Report-box system with an admin panel, built around four web security protections: SQL Injection, XSS, CSRF and malicious file uploads.</p>
